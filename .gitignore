@@ -1,1 +1,4 @@
 /vision_venv/
+coco/
+__pycache__/
+*.pyc
